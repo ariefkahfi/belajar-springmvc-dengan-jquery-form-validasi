@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BelajarSpringMvcJqueryForm:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="BelajarSpringMvcJqueryForm-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BelajarSpringMvcJqueryForm:war exploded" />
+    </root>
+  </artifact>
+</component>
